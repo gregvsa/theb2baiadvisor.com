@@ -1,39 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://theb2baiadvisor.com/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://theb2baiadvisor.com/images/og-default.svg</image:loc>
+      <image:title>The B2B AI Advisor</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://theb2baiadvisor.com/articles/ai-for-law-firms-comparison.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://theb2baiadvisor.com/images/og-law-firms.svg</image:loc>
+      <image:title>Best AI Tools for Law Firms in 2026</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://theb2baiadvisor.com/articles/acti-vs-kira.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://theb2baiadvisor.com/images/og-kira.svg</image:loc>
+      <image:title>ACTi vs Kira Systems</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://theb2baiadvisor.com/articles/ai-voice-coaching-sales.html</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://theb2baiadvisor.com/images/og-coaching.svg</image:loc>
+      <image:title>AI Voice Coaching for Sales Teams</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://theb2baiadvisor.com/articles/acti-for-accounting.html</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://theb2baiadvisor.com/images/og-accounting.svg</image:loc>
+      <image:title>AI Agents for Accounting Firms</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://theb2baiadvisor.com/articles/ai-meeting-summarization-medical.html</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://theb2baiadvisor.com/images/og-medical.svg</image:loc>
+      <image:title>AI Meeting Summarization for Medical Practices</image:title>
+    </image:image>
   </url>
 </urlset>
